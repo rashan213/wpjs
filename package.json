@@ -1,9 +1,9 @@
 {
   "name": "next-wordpress-starter",
-  "homepage": "https://next-wordpress-starter.spacejelly.dev",
+  "homepage": "https://ico.tsl-sale.com/",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Test",
   "scripts": {
     "build": "next build",
     "wpe-build": "npm run build",
