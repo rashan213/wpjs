@@ -10,6 +10,7 @@ module.exports = {
     },
   },
   extends: [
+    'next',
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:prettier/recommended',
@@ -30,5 +31,7 @@ module.exports = {
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
     '@next/next/no-img-element': 'off',
+    'no-unused-vars': 'off',
+    'prettier/prettier': 'off'
   },
 };
